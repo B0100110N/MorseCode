@@ -1,9 +1,9 @@
 import winsound
 
 
-#frequency variables have a value measured in Hertz
+#frequency variables have a value measured in hertz
 #dot variables have a value measured in milliseconds
-#dash variables have a value measurede in milliseconds
+#dash variables have a value measured in milliseconds
 
 print('\n')
 print("Press '1' to exit.")
